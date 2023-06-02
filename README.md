@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 🤖
 
-[<img src="./animacao.gif" alt="gif da tela da chounchroll">]
+[<img src="./Animacao.gif" alt="gif da tela da crunchyroll">]
 
 ## Tecnologias utilizadas
 
